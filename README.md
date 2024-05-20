@@ -2,7 +2,7 @@
 
 ###### (apenas um teste para uso do markdown e readme)
 
-quero que todos possam ver isso, é algo incrivel que o manoel gomes (vulgo caneta azul) fez durante uma expedição no japão para poder ajudar na causa de crianças em situção de fome e de rua
+Quero que todos possam ver isso, é algo incrivel que o Manoel Gomes (vulgo caneta azul) fez durante uma expedição no japão para poder ajudar na causa de crianças em situção de fome e de rua.
 
 veja clicando [aqui](https://i.pinimg.com/564x/b4/20/1d/b4201d8310215781eab5facfb3103dac.jpg)
 
@@ -26,7 +26,7 @@ veja clicando [aqui](https://i.pinimg.com/564x/b4/20/1d/b4201d8310215781eab5facf
 
 agradeço sua atenção até aqui, essa foi um pouco da longa historia do nosso querido caneta azul.
 
-caso tenha gostado compartilhe com seus familiares para conhecerem mais esse grando idolo.
+caso tenha gostado compartilhe com seus familiares para mais pessoas conhecerem esse grande idolo.
 
 um beijo do bluen pen
 
