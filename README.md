@@ -29,5 +29,4 @@ agradeço sua atenção até aqui, essa foi um pouco da longa historia do nosso 
 caso tenha gostado compartilhe com seus familiares para conhecerem mais esse grando idolo.
 
 um beijo do bluen pen
-<img align="center" src="https://i.pinimg.com/564x/60/e0/df/60e0df5a36ff1c4d081fbeb3cef30d4b.jpg
-">
+<img id="bluepen" align="center" src="https://i.pinimg.com/564x/60/e0/df/60e0df5a36ff1c4d081fbeb3cef30d4b.jpg">
