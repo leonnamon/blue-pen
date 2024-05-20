@@ -1,5 +1,7 @@
 # 🔹CANETA AZUL | O MITO
 
+###### (apenas um teste para uso do markdown e readme)
+
 quero que todos possam ver isso, é algo incrivel que o manoel gomes (vulgo caneta azul) fez durante uma expedição no japão para poder ajudar na causa de crianças em situção de fome e de rua
 
 veja clicando [aqui](https://i.pinimg.com/564x/b4/20/1d/b4201d8310215781eab5facfb3103dac.jpg)
@@ -18,9 +20,7 @@ veja clicando [aqui](https://i.pinimg.com/564x/b4/20/1d/b4201d8310215781eab5facf
 [Anatomy](https://i.pinimg.com/736x/d0/03/36/d003362e0885c1eb95d22a9953afea6e.jpg)|[Barbie](https://i.pinimg.com/564x/d4/ee/6e/d4ee6ecf840e3068046be3b9d64e4c15.jpg)
 |[11 September](https://i.pinimg.com/564x/49/ef/63/49ef63ee011c0caceb1619da325df425.jpg) |[Homelander](https://i.pinimg.com/564x/95/94/c1/9594c1aaf920ba788f5b775615b884cc.jpg)
 
-```
-então esse é seu idolo?
-```
+###### ~então esse é seu idolo?~
 
 ## 🧐 POR FIM
 
